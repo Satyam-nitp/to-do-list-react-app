@@ -1,9 +1,7 @@
-Sure! Here's the updated `README.md` file with the **Deployment** section removed:
-
-```markdown
 # To-Do List React App
 
-A **To-Do List** app built with **React.js** that allows users to add tasks, mark them as completed, remove them, and save tasks by date. It uses **Local Storage** for persistent data, ensuring tasks are available even after a page refresh. The app also lets users view tasks based on the selected date.
+A **To-Do List** app built with **React.js** that allows users to add tasks, mark them as completed, remove them, and save tasks by date.
+It uses **Local Storage** for persistent data, ensuring tasks are available even after a page refresh. The app also lets users view tasks based on the selected date.
 
 ## Features
 
@@ -49,7 +47,7 @@ To run this app locally, follow these steps:
 
 ## Screenshots
 
-![To-Do List App Screenshot](/todo-app/src/screenshot.png)
+![To-Do List App Screenshot](/src/screenshot.png)
 
 ## Contributing
 
